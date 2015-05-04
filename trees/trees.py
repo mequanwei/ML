@@ -224,6 +224,3 @@ def test():
 	createPlot(lensesTree);
 
 test();
-				
-		
-		
